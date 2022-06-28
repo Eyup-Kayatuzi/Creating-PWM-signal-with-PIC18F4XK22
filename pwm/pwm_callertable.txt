@@ -1,0 +1,5 @@
+main
+	PWM4_Init
+	PWM4_Set_Duty
+		Mul_16X16_U
+	PWM4_Start

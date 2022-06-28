@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=..\Blinking\Blinkk.mcppi
+Project1=..\Input\Inputt.mcppi
+Project2=..\sil\dene.mcppi
+Project3=pwm.mcppi
+[ActiveProject]
+Index=2
